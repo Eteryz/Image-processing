@@ -1,0 +1,10 @@
+C:\Users\Владислав\source\repos\2c_Lab4\bin\Debug\2c_Lab4.exe.config
+C:\Users\Владислав\source\repos\2c_Lab4\bin\Debug\2c_Lab4.exe
+C:\Users\Владислав\source\repos\2c_Lab4\bin\Debug\2c_Lab4.pdb
+C:\Users\Владислав\source\repos\2c_Lab4\obj\Debug\2c_Lab4.csprojAssemblyReference.cache
+C:\Users\Владислав\source\repos\2c_Lab4\obj\Debug\_2c_Lab4.Form1.resources
+C:\Users\Владислав\source\repos\2c_Lab4\obj\Debug\_2c_Lab4.Properties.Resources.resources
+C:\Users\Владислав\source\repos\2c_Lab4\obj\Debug\2c_Lab4.csproj.GenerateResource.cache
+C:\Users\Владислав\source\repos\2c_Lab4\obj\Debug\2c_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\2c_Lab4\obj\Debug\2c_Lab4.exe
+C:\Users\Владислав\source\repos\2c_Lab4\obj\Debug\2c_Lab4.pdb
